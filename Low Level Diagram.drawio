@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="uqv7fCo5bTJ5ZhZfO4SZ">
-    <mxGraphModel dx="3067" dy="799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="3409" dy="999" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -221,7 +221,7 @@
             <mxPoint x="-580" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RxVEweEcyjAFFzbMhuwT-1" value="ToDo:&lt;div&gt;- Rearrage (3/3/3/5)&lt;/div&gt;&lt;div&gt;- Actor&lt;/div&gt;&lt;div&gt;- Entry point&lt;/div&gt;&lt;div&gt;- Internal Links&lt;/div&gt;&lt;div&gt;- Common Application Aspects including GUI&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=32;" vertex="1" parent="1">
+        <mxCell id="RxVEweEcyjAFFzbMhuwT-1" value="ToDo:&lt;div&gt;- Rearrage (3/3/3/5)&lt;/div&gt;&lt;div&gt;- Actors and Events&lt;/div&gt;&lt;div&gt;- Entry point&lt;/div&gt;&lt;div&gt;- Internal Links&lt;/div&gt;&lt;div&gt;- Descriptions of interactions with external systems, actors and events&lt;/div&gt;&lt;div&gt;- Common Application Aspects including GUI&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=32;" parent="1" vertex="1">
           <mxGeometry x="-1580" y="100" width="670" height="310" as="geometry" />
         </mxCell>
       </root>
