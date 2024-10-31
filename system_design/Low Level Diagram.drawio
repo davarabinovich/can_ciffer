@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="uqv7fCo5bTJ5ZhZfO4SZ">
-    <mxGraphModel dx="8236" dy="5608" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="2978" dy="2759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -246,13 +246,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-12" value="struct MsgTypes[],&lt;div&gt;struct MsgWidgetDescription[],&lt;/div&gt;&lt;div&gt;struct Node[]&lt;br&gt;&lt;div&gt;read&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-12" value="struct MsgType[],&lt;div&gt;struct MsgWidgetDescription[],&lt;/div&gt;&lt;div&gt;struct Node[]&lt;br&gt;&lt;div&gt;read&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1100" y="-2000" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-14" value="&lt;div&gt;addMsgTypes&lt;div&gt;(struct MsgTypes[])&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-14" value="&lt;div&gt;addMsgTypes&lt;div&gt;(struct MsgType[])&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-680" y="-1330" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-16" value="&lt;div&gt;addMsgTypes&lt;div&gt;(struct MsgTypes[])&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-16" value="&lt;div&gt;addMsgTypes&lt;div&gt;(struct MsgType[])&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-700" y="-1650" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1b7-D6uKj-gsO6m6T2Pv-19" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;placeWidgets&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgWidgetDescription[]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -270,13 +270,13 @@
         <mxCell id="1b7-D6uKj-gsO6m6T2Pv-22" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;placeWidgets&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgWidgetDescription[]&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1440" y="-1410" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-25" value="struct MsgTypes[]&lt;div&gt;getMsgTypes&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-25" value="struct MsgType[]&lt;div&gt;getMsgTypes&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-665" y="-1610" width="185" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-27" value="&lt;div&gt;write&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgTypes[],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgWidgetDescription[],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct Node[])&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-27" value="&lt;div&gt;write&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgType[],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct MsgWidgetDescription[],&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct Node[])&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-900" y="-2000" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-30" value="struct MsgTypes[]&lt;div&gt;getMsgTypes&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1b7-D6uKj-gsO6m6T2Pv-30" value="struct MsgType[]&lt;div&gt;getMsgTypes&lt;span style=&quot;background-color: initial;&quot;&gt;()&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-720" y="-1290" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1b7-D6uKj-gsO6m6T2Pv-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=block;startFill=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="TQEX-bvaSzcbGmNimmWH-48" target="TQEX-bvaSzcbGmNimmWH-14" edge="1">
@@ -796,10 +796,10 @@
             <mxPoint x="-1820" y="-350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;show&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(struct&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct ParsedMsg&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;show&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(struct&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct ParsedMsg&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-1450" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-5" value="&amp;lt;- Loaded self-node data&lt;div&gt;Control Events,&lt;/div&gt;&lt;div&gt;Entered self-node data -&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-5" value="&amp;lt;- Loaded self-node data&lt;div&gt;Control Events,&lt;/div&gt;&lt;div&gt;Entered self-node data -&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1960" y="-1850" width="520" height="50" as="geometry" />
         </mxCell>
       </root>
