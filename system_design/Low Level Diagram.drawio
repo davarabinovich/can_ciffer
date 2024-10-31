@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="uqv7fCo5bTJ5ZhZfO4SZ">
-    <mxGraphModel dx="4187" dy="3414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="3934" dy="3277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -796,7 +796,7 @@
             <mxPoint x="-1820" y="-350" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;show&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(struct&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;struct ParsedMsg&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ORYQ8BlnzoVqKQQbpYbt-3" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;show&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;(struct&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp;ParsedMsg&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-1450" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ORYQ8BlnzoVqKQQbpYbt-5" value="&amp;lt;- Loaded self-node data&lt;div&gt;Control Events,&lt;/div&gt;&lt;div&gt;Entered self-node data -&amp;gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
