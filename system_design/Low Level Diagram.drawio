@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="uqv7fCo5bTJ5ZhZfO4SZ">
-    <mxGraphModel dx="2978" dy="2759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="4187" dy="3414" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2500" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -219,10 +219,10 @@
         <mxCell id="TQEX-bvaSzcbGmNimmWH-78" value="on_sending&lt;div&gt;(struct CanMsg)&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-1770" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TQEX-bvaSzcbGmNimmWH-81" value="struct ParsedMsg&lt;div&gt;on_entered_raw_msg&lt;div&gt;(struct CanMsg)&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TQEX-bvaSzcbGmNimmWH-81" value="struct ParsedMsg&lt;div&gt;on_raw_msg_setting&lt;div&gt;(struct CanMsg)&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1280" y="-1700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TQEX-bvaSzcbGmNimmWH-83" value="&lt;div&gt;struct CanMsg&lt;/div&gt;&lt;div&gt;on_entered_parsed_msg&lt;div&gt;(struct ParsedMsg)&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="TQEX-bvaSzcbGmNimmWH-83" value="&lt;div&gt;struct CanMsg&lt;/div&gt;&lt;div&gt;on_parsed_msg_setting&lt;div&gt;(struct ParsedMsg)&lt;/div&gt;&lt;div&gt;callback&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1450" y="-1680" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TQEX-bvaSzcbGmNimmWH-85" value="&lt;div&gt;struct CanMsg&lt;/div&gt;&lt;div&gt;compose&lt;div&gt;(struct ParsedMsg)&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=bottom;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
