@@ -12,6 +12,8 @@ namespace msgs
     struct Field
     {
         string name;
+        uint16_t length;
+        uint16_t position;
         FieldRecalcAlg recalcAlg;
         string unitSign;
     };
